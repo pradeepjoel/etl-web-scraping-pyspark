@@ -3,4 +3,3 @@
 - Learned the importance of clean repository structure, reproducibility, and GitHub-ready project setup.
 - Decided to apply these learnings to a new SQL-focused data warehouse project using PostgreSQL.
 - Set up folder structure and learning log for the SQL project to ensure consistent progress and proper documentation.
-- Decided to apply these learnings to a new SQL-focused data warehouse project using PostgreSQL.
